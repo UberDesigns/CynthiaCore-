@@ -20,3 +20,6 @@ The CynthiaCore masterkey allows you to strap a straight-talon, micro-flywheel, 
 
 1x Micro-Flywheel FLycore HW Kit [OOD Link](https://outofdarts.com/products/flycore-noidcore-hardware-kit?variant=40535657381930) (I reccomend high ROF and high RPM motors for maximium dart-hose)
 
+2x Small Mosfet Boards (I reccomend [these](https://outofdarts.com/products/value-mosfet-mini-board?_pos=1&_sid=4e0e65ba0&_ss=r))
+
+2x Tiny 6x6x3.1H SMD Buttons [Amazon Link](https://www.amazon.com/gp/product/B07LCBLB8N/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1)
