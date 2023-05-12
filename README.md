@@ -15,4 +15,8 @@ A masterkey integration is when someone connects a smaller blaster into a bigger
 
 The CynthiaCore masterkey allows you to strap a straight-talon, micro-flywheel, Flycore blaster to the bottom of Sillybutts' Cynthia blaster for all your foam-flinging needs!
 
+# Hardware
+1x M3 Socket Head Screw and Nut Assortent [Amazon Link](https://www.amazon.com/iexcell-Metric-Stainless-Socket-Assortment/dp/B09J2TYH25/ref=dp_prsubs_sccl_3/131-2554634-3227031?pd_rd_w=au3k3&content-id=amzn1.sym.2c74594d-9264-4cdf-bf3d-e4e41e237275&pf_rd_p=2c74594d-9264-4cdf-bf3d-e4e41e237275&pf_rd_r=YBSX295KH32YG7FGAAH7&pd_rd_wg=9d5Az&pd_rd_r=adfb0bd6-b4de-434b-97c2-cb33bdd45931&pd_rd_i=B09J2TYH25&psc=1)
+
+1x Micro-Flywheel FLycore HW Kit [OOD Link](https://outofdarts.com/products/flycore-noidcore-hardware-kit?variant=40535657381930) (I reccomend high ROF and high RPM motors for maximium dart-hose)
 
