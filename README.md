@@ -13,6 +13,6 @@ A masterkey integration is when someone connects a smaller blaster into a bigger
 ![image](https://user-images.githubusercontent.com/130928672/232335812-08b8b6a9-0233-48c8-b7b2-b0a2a8f74659.png)  
 *A Stryfe with a Rough Cut masterkey.*
 
-The CynthiaCore masterkey allows you to strap a straight-talon, micro-flywheel,Flycore blaster to the bottom of Sillybutts' Cynthia blaster for all your foam-flinging needs!
+The CynthiaCore masterkey allows you to strap a straight-talon, micro-flywheel, Flycore blaster to the bottom of Sillybutts' Cynthia blaster for all your foam-flinging needs!
 
 
